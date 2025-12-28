@@ -114,10 +114,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [Your GitHub](https://github.com/yourusername)
+- **RUSHI** - [GitHub](https://github.com/yourusernameRockingrushi)
 
 ## 🙏 Acknowledgments
 
 - Scikit-learn documentation
 - Flask documentation
 - Open-source NLP community
+
+## Live Demo
+https://sentiment-analysis-h6eo.onrender.com
